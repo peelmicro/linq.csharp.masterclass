@@ -1,7 +1,7 @@
-# Angular 6 - The Complete Guide
+# The Ultimate LINQ with C# Masterclass - Basics to Advanced
 
-> source code for the "Angular 6 (formerly Angular 2) - The Complete Guide" Udemy course
+> source code for the "The Ultimate LINQ with C# Masterclass - Basics to Advanced" Udemy course
 
 # Follow the course
 
-Follow the course on https://www.udemy.com/the-complete-guide-to-angular-2/
+Follow the course on https://www.udemy.com/the-ultimate-linq-with-csharp-masterclass-basics-to-advanced/
